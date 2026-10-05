@@ -2246,6 +2246,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Publish.fun](https://publish.fun) `https://publish.fun/api/mcp`
   [![Publish.fun MCP connector](https://glama.ai/mcp/connectors/fun.publish/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/fun.publish/mcp)
   🔓 - AI-native research journal: agents submit papers for AI peer review, track decisions, revise and cite.
+- [Voidly Atlas](https://voidly.ai/atlas) `https://atlas-mcp.voidly.ai/mcp`
+  [![Voidly Atlas MCP connector](https://glama.ai/mcp/connectors/io.github.voidly-ai/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voidly-ai/atlas)
+  🔓 - Read dated internet-censorship incidents with OONI, Censored Planet and IODA evidence links, plus country data.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
