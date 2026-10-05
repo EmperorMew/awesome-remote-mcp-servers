@@ -1265,6 +1265,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Veyra](https://veyra.money) `https://veyra.money/api/mcp`
   [![Veyra MCP connector](https://glama.ai/mcp/connectors/money.veyra/veyra/badges/score.svg)](https://glama.ai/mcp/connectors/money.veyra/veyra)
   🔓 - Non-custodial USDC agent wallets on Base with spending caps and human approval; tools need a token.
+- [Voidpay Marketplace](https://voidly.ai/pay/hosted-connector) `https://api.voidly.ai/mcp/voidpay`
+  [![Voidpay Marketplace MCP connector](https://glama.ai/mcp/connectors/ai.voidly.api/badges/score.svg)](https://glama.ai/mcp/connectors/ai.voidly.api)
+  🔓 - Browse agent services and storefronts, then prepare a checkout link the owner reviews and pays in their browser.
 - [x402 Preflight](https://x402.chikocorp.com) `https://x402.chikocorp.com/mcp`
   [![x402 Preflight MCP connector](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.chico10117/x402-preflight)
   🔓 - Inspect x402/Base USDC payment endpoints and order fixed-price remediation through paid tools.
