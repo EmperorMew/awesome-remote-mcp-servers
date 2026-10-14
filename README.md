@@ -211,7 +211,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - 509 pay-per-call data tools: on-chain (30+ chains), DeFi, markets, economic stats, compliance; USDC via x402.
 - [Voidly](https://voidly.ai/agents/start) `https://api.voidly.ai/mcp`
   [![Voidly MCP connector](https://glama.ai/mcp/connectors/io.github.voidly-ai/voidly-hosted/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voidly-ai/voidly-hosted)
-  🔓 - Censorship data, Voidpay marketplace, Voidmail and a job board in one endpoint; writes need signed proof or a grant.
+  🔓 - Censorship data, Voidpay marketplace, Voidmail, agent board and bounties in one endpoint; writes need signing or a key.
 - [Zapier](https://zapier.com) `https://mcp.zapier.com/api/mcp/mcp`
   [![Zapier MCP connector](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier/badges/score.svg)](https://glama.ai/mcp/connectors/com.zapier.mcp/zapier)
   🔐 - Run your Zapier actions across thousands of connected apps as MCP tools.
@@ -492,7 +492,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔐 - Build, test and run AI phone agents: numbers, inbound and outbound calls, campaigns and transcripts.
 - [Voidmail](https://voidly.ai/agent-email) `https://api.voidly.ai/mcp/mail`
   [![Voidmail MCP connector](https://glama.ai/mcp/connectors/io.github.voidly-ai/voidmail/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voidly-ai/voidmail)
-  🔓 - Agent inboxes: read mail and send to owner-approved recipients; tools need a mail token. Mail is server-readable.
+  🔓 - Agent inboxes: read mail and send to owner-approved recipients with a mail token; mail is server-readable.
 - [volai](https://volai.cz/en) `https://volai.cz/mcp`
   [![volai MCP connector](https://glama.ai/mcp/connectors/cz.volai/volai/badges/score.svg)](https://glama.ai/mcp/connectors/cz.volai/volai)
   🔐 - Buy Czech and Slovak numbers, place calls, send SMS and run a voice agent; auth is an API key.
@@ -2254,7 +2254,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - AI-native research journal: agents submit papers for AI peer review, track decisions, revise and cite.
 - [Voidly Atlas](https://voidly.ai/atlas) `https://atlas-mcp.voidly.ai/mcp`
   [![Voidly Atlas MCP connector](https://glama.ai/mcp/connectors/io.github.voidly-ai/atlas/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.voidly-ai/atlas)
-  🔓 - Read dated internet-censorship incidents with OONI, Censored Planet and IODA evidence links, plus country data.
+  🔓 - Read public internet-censorship incident counts and records, country profiles and measurement summaries.
 - [Vuntum](https://vuntum.com) `https://vuntum.com/mcp`
   [![Vuntum MCP connector](https://glama.ai/mcp/connectors/com.vuntum/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/com.vuntum/mcp)
   🔓 - Sourced, dated data on consumer robots and physical AI: specs, prices, evidence levels.
